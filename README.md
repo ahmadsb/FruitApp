@@ -2,20 +2,20 @@
 
 A new fruit app using Flutter.
 
-I divided the project into folders 
-/lib/
-    - data: includes all files the data as backend
-    - models: we have a one modle Item class
-    - screens: we have two screens [home, item details]
-        - Home Screen to present the table of items
-        - Item Details Screen 
-    - services: I used with one services, HttpServices
-    - utils: to manipulation the data, convert from json to obj, response to json and more...
-    - widgets: templates of widgets, I can reused them
-    - theme: here I can select the style of app 
-        - colors file: all colors of app
-        - style file : constants
-    - main.dart: 
+I divided the project into folders <br>
+/lib/<br>
+    - data: includes all files the data as backend<br>
+    - models: we have a one modle Item class<br>
+    - screens: we have two screens [home, item details]<br>
+        - Home Screen to present the table of items<br>
+        - Item Details Screen <br>
+    - services: I used with one services, HttpServices<br>
+    - utils: to manipulation the data, convert from json to obj, response to json and more...<br>
+    - widgets: templates of widgets, I can reused them<br>
+    - theme: here I can select the style of app <br>
+        - colors file: all colors of app<br>
+        - style file : constants<br>
+    - main.dart: <br>
 
 
 <img src="Screenshots/image1.png" alt="drawing" width="350"/>
