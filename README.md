@@ -18,6 +18,10 @@ I divided the project into folders
     - main.dart: 
 
 
+<img src="Screenshots/image1.jpg" alt="drawing" width="350"/>
+<img src="Screenshots/image2.jpg" alt="drawing" width="350"/>
+<img src="Screenshots/image3.jpg" alt="drawing" width="350"/>
+
 
 
 
